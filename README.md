@@ -1,2 +1,3 @@
-# hrishi
-imad
+# imad-app
+
+IMAD course application.
